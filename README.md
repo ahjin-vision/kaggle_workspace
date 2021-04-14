@@ -11,7 +11,8 @@ Sometimes github coulnd't load the ipynbs, if it happens, please download the fi
 I'm figuring out why it happens. \
 \
 Anybody is welcomed to make contributions, issues, anything about my work. \
-Don't hesitate to mail me @ ahjin.vision@gmail.com \ 
+Don't hesitate to mail me @ ahjin.vision@gmail.com 
+\
 \
 And lastly, for all beginners, let's go for it!! 💪💪💪
 
